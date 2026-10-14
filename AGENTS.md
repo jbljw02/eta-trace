@@ -72,3 +72,7 @@ Follow these standards when working on this project.
 
 - Follow `docs/plan/PLAN.md` when creating work plans.
 - Before starting or resuming planned work, read the relevant plan and follow its execution, review, and progress tracking rules.
+
+## Pull Requests
+
+- Before creating or updating a pull request, read `.github/PULL_REQUEST_TEMPLATE.md` and follow its structure and instructions.
