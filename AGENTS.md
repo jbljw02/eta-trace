@@ -67,3 +67,8 @@ Follow these standards when working on this project.
 - Write instructions and procedures in the imperative mood.
 - Write comments that explain intent and reasoning rather than restating what the code does.
 - Keep execution instructions and feature descriptions aligned with the current state of the project.
+
+## Work Plans
+
+- Follow `docs/plan/PLAN.md` when creating work plans.
+- Before starting or resuming planned work, read the relevant plan and follow its execution, review, and progress tracking rules.
